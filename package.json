@@ -1,6 +1,6 @@
 {
   "name": "xhh-actions-test",
-  "version": "1.0.0",
+  "version": "1.0.0-pre",
   "private": false,
   "description": "github actions test",
   "main": "dist/hello.js",
