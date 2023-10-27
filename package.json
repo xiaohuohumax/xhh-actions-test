@@ -12,6 +12,10 @@
       "require": "./dist/hello.js"
     }
   },
+  "files": [
+    "dist",
+    "lib"
+  ],
   "repository": {
     "url": "xiaohuohumax/xhh-actions-test",
     "type": "github"
