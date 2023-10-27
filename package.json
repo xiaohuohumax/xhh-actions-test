@@ -1,0 +1,36 @@
+{
+  "name": "xhh-actions-test",
+  "version": "1.0.0",
+  "private": false,
+  "description": "github actions test",
+  "main": "dist/hello.js",
+  "module": "dist/hello.mjs",
+  "typings": "dist/hello.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/hello.mjs",
+      "require": "./dist/hello.js"
+    }
+  },
+  "repository": {
+    "url": "xiaohuohumax/xhh-actions-test",
+    "type": "github"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": {
+    "name": "xiaohuohumax",
+    "url": "https://github.com/xiaohuohumax"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "tsup": "^7.2.0"
+  },
+  "dependencies": {
+    "typescript": "^5.2.2"
+  }
+}
