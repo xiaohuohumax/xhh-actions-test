@@ -1,6 +1,6 @@
 {
   "name": "xhh-actions-tests",
-  "version": "1.0.0-pre",
+  "version": "1.0.0",
   "private": false,
   "description": "github actions test",
   "main": "dist/hello.js",
@@ -30,7 +30,7 @@
     "name": "xiaohuohumax",
     "url": "https://github.com/xiaohuohumax"
   },
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "tsup": "^7.2.0"
   },
