@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+verify_ssl = true
+name = "pip_conf_index_global"
+
+[scripts]
+test = "pytest test -rA"
+
+[packages]
+"ruamel.yaml" = "*"
+test = "*"
+
+[dev-packages]
+build = "*"
+pytest = "*"
+
+[requires]
+python_version = "3.8"
