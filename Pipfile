@@ -5,6 +5,7 @@ name = "pip_conf_index_global"
 
 [scripts]
 test = "pytest test -rA"
+build = "python -m build"
 
 [packages]
 "ruamel.yaml" = "*"
