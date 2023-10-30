@@ -1,2 +1,5 @@
 dist
 *.egg-info
+.tox
+__pycache__
+dist

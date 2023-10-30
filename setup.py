@@ -5,7 +5,7 @@ setup(
     version='0.1.0',
     author='xiaohuohumax',
     license='MIT',
-    url='https://github.com/xiaohuohumax/xhh-cation-test',
+    url='',
     description="xhh-cation-test",
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",

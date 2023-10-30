@@ -1,2 +1,7 @@
+import init
+
 def test_info():
-    print("info")
+    print(
+        
+    init.read_yaml_file('app.yaml')
+    )
